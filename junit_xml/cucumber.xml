@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Serach for a product" name="Title of your scenario" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user opens a browser..................................................undefined
+When user is in LandingPage.................................................undefined
+And user enters RsStockNo in SearchBox......................................undefined
+And user clicks on the searchbutton.........................................undefined
+Then user should be navigated to searchresultspage..........................undefined
+]]></failure>
+</testcase>
+</testsuite>
